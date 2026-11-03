@@ -75,8 +75,3 @@ python main.py
 - Using API keys for authentication.
 - Handling API errors and exceptions.
 
-## 👩‍💻 Author
-
-Kowsalya V
-
-[GitHub](https://github.com/Kowsalya-V) | [LinkedIn](https://www.linkedin.com/in/kowsalya-v-6a6999290/)
